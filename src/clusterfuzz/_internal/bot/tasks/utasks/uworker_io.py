@@ -20,7 +20,7 @@ import uuid
 import zlib
 
 from google.cloud import ndb
-from google.cloud.datastore_v1.types import entity as entity_pb2
+from google.cloud.datastore_v1.types import entity_pb2
 from google.cloud.ndb import model
 from google.protobuf import any_pb2
 from google.protobuf import timestamp_pb2
